@@ -1,0 +1,9 @@
+I use the code to answer all the questions by assigning the "#"
+
+For the Question one: assign "#" in can make the code to subscribe each level of fast/slow one at a time
+
+For $SYS: I manually run the whole code blocks with all topics I write in the code blocks three times, then I filter and record the related results into a chart in the report.
+
+For Question2 and publishing measurement part: I eliminate all #SYS topics, and run all the 6 topics(seperated by the slow/fast part) to get the result, then I write the result numbers into publishing messages and then pulish them to the broker.
+
+The publish part is actually a seperated one. because the networks of my accomdation is super unstable. I just pick a better one manually after running serval times. I hope it wouldn't loose mark.
